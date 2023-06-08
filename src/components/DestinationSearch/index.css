@@ -1,0 +1,30 @@
+/* Write your CSS here */
+
+.bg-container {
+  padding: 20px;
+}
+
+.heading {
+  color: #252627;
+  font-family: roboto;
+}
+.search-container {
+  display: flex;
+  background-color: #f1f5f9;
+  border-radius: 10px;
+  width: 200px;
+  padding: 15px;
+}
+
+.search-element {
+  outline: none;
+  border-width: 0px;
+  background-color: #f1f5f9;
+  width: 150px;
+}
+
+.search-button {
+  background-color: #f1f5f9;
+  width: 20px;
+  height: 20px;
+}
